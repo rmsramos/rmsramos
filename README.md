@@ -16,6 +16,10 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
+![WordPress](https://img.shields.io/badge/-WordPress-05122A?style=flat&logo=wordpress)&nbsp;
+
 <!--
 **rmsramos/rmsramos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
