@@ -38,3 +38,7 @@ Here are some ideas to get you started:
   <a href="https://twitter.com/rmsramos" target="_blank"><img src="https://img.shields.io/badge/twitter-7289DA?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/rmsramos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+## Plugins
+
+- [Filament: Activitylog](https://github.com/rmsramos/activitylog)
