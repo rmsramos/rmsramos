@@ -6,21 +6,17 @@
 
 ### Tech Stack
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
-![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
-![WordPress](https://img.shields.io/badge/-WordPress-05122A?style=flat&logo=wordpress)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-7a86b8?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-f9322c?style=for-the-badge&logo=laravel&logoColor=white)
+![Livewire](https://img.shields.io/badge/Livewire-fb70a9?style=for-the-badge&logo=livewire&logoColor=white)
+![AlpineJs](https://img.shields.io/badge/AlpineJs-77c1d2?style=for-the-badge&logo=javascript&logoColor=white)
+![TailwindCss](https://img.shields.io/badge/TailwindCss-38bdf8?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Filament](https://img.shields.io/badge/Filament-eab308?style=for-the-badge&logo=laravel&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-3e6e93?style=for-the-badge&logo=mysql&logoColor=white)
+![Wordpress](https://img.shields.io/badge/Wordpress-23282d?style=for-the-badge&logo=wordpress&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F1553A?style=for-the-badge&logo=git&logoColor=white)
+![Github](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
 
 <!--
 **rmsramos/rmsramos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
