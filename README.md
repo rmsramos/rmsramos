@@ -42,3 +42,4 @@ Here are some ideas to get you started:
 ## Plugins
 
 - [Filament: Activitylog](https://github.com/rmsramos/activitylog)
+- [Filament: PostalCode](https://github.com/rmsramos/postal-code)
