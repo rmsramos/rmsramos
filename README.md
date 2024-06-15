@@ -43,3 +43,5 @@ Here are some ideas to get you started:
 
 - [Filament: Activitylog](https://github.com/rmsramos/activitylog)
 - [Filament: PostalCode](https://github.com/rmsramos/postal-code)
+- [Filament: System Info Widget](https://github.com/rmsramos/system-info) 
+ 
