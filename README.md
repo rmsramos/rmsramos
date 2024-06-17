@@ -1,10 +1,17 @@
 ## Hi, I'm Rômulo Ramos
-### Web developer based in north of Brazil (Macapá - Amapá)
+### PHP developer based in north of Brazil (Macapá - Amapá)
 
+<br clear="both">
 
-<br><br>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=rmsramos&hide_title=false&hide_rank=false&show_icons=true&icon_color=ffffff&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rmsramos&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
-### Tech Stack
+###
+<br>
+
+## Tech Stack
 
 ![PHP](https://img.shields.io/badge/-PHP-7a86b8?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-f9322c?style=for-the-badge&logo=laravel&logoColor=white)
@@ -18,21 +25,8 @@
 ![Git](https://img.shields.io/badge/-Git-F1553A?style=for-the-badge&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
 
-<!--
-**rmsramos/rmsramos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-##
+## Social
 <div> 
   <a href="https://www.youtube.com/@rmsramos/videos" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://twitter.com/rmsramos" target="_blank"><img src="https://img.shields.io/badge/twitter-7289DA?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
