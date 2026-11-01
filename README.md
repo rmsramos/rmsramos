@@ -1,6 +1,20 @@
 ## Hi, I'm Rômulo Ramos
 ### PHP developer based in north of Brazil (Macapá - Amapá) 🇧🇷
 
+## New: Teclume ⌨️
+
+**[Teclume](https://github.com/rmsramos/teclume)** is an unofficial Linux configurator for the **Fortrek Cruiser** RGB keyboard. The vendor app only runs on Windows and macOS, so I reverse-engineered the USB protocol and built a native one.
+
+[![Release](https://img.shields.io/github/v/release/rmsramos/teclume?style=flat-square&color=8b5cf6)](https://github.com/rmsramos/teclume/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/rmsramos/teclume/total?style=flat-square&color=8b5cf6)](https://github.com/rmsramos/teclume/releases)
+[![License](https://img.shields.io/github/license/rmsramos/teclume?style=flat-square&color=8b5cf6)](https://github.com/rmsramos/teclume/blob/main/LICENSE)
+![Linux](https://img.shields.io/badge/Linux-.deb%20%7C%20.rpm%20%7C%20AppImage-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Tauri](https://img.shields.io/badge/Tauri-Rust-24C8DB?style=flat-square&logo=tauri&logoColor=white)
+
+Lighting effects with live preview · key remaps · macros · per-key colors · 3 profiles · PT / EN / ES
+
+<a href="https://github.com/rmsramos/teclume"><img src="https://raw.githubusercontent.com/rmsramos/teclume/main/docs/screenshot.png" width="720" alt="Teclume screenshot"></a>
+
 ## Filament Plugins
 
 | Plugin | Description | Downloads | Stars |
