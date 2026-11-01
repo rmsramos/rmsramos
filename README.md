@@ -1,15 +1,13 @@
 ## Hi, I'm Rômulo Ramos
 ### PHP developer based in north of Brazil (Macapá - Amapá) 🇧🇷
 
-<br clear="both">
+## Filament Plugins
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rmsramos&hide_title=false&hide_rank=false&show_icons=true&icon_color=ffffff&include_all_commits=true&&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rmsramos&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-<br>
+| Plugin | Description | Downloads | Stars |
+|---|---|---|---|
+| [**Activitylog**](https://github.com/rmsramos/activitylog) | Spatie Laravel activity logs inside of Filament | ![Downloads](https://img.shields.io/packagist/dt/rmsramos/activitylog?style=flat-square&color=eab308) | ![Stars](https://img.shields.io/github/stars/rmsramos/activitylog?style=flat-square&color=eab308) |
+| [**PostalCode**](https://github.com/rmsramos/postal-code) | Form field for Filament integrated with ViaCep | ![Downloads](https://img.shields.io/packagist/dt/rmsramos/postal-code?style=flat-square&color=eab308) | ![Stars](https://img.shields.io/github/stars/rmsramos/postal-code?style=flat-square&color=eab308) |
+| [**System Info**](https://github.com/rmsramos/system-info) | Filament widget showing system info | ![Downloads](https://img.shields.io/packagist/dt/rmsramos/system-info?style=flat-square&color=eab308) | ![Stars](https://img.shields.io/github/stars/rmsramos/system-info?style=flat-square&color=eab308) |
 
 ## Tech Stack
 
@@ -33,9 +31,10 @@
   <a href="https://www.linkedin.com/in/rmsramos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-## Plugins
+## Contributions
 
-- [Filament: Activitylog](https://github.com/rmsramos/activitylog)
-- [Filament: PostalCode](https://github.com/rmsramos/postal-code)
-- [Filament: System Info Widget](https://github.com/rmsramos/system-info) 
- 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rmsramos/rmsramos/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rmsramos/rmsramos/output/snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/rmsramos/rmsramos/output/snake.svg" />
+</picture>
