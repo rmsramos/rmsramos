@@ -1,7 +1,24 @@
 ## Hi, I'm Rômulo Ramos
 ### PHP developer based in north of Brazil (Macapá - Amapá) 🇧🇷
 
-## New: Teclume ⌨️
+I build Laravel and Filament plugins by day. When a piece of hardware I own only ships Windows software, I reverse-engineer its protocol and write a native Linux app for it.
+
+## Linux apps for hardware
+
+### New: MultiFX Editor 🎸
+
+**[MultiFX Editor](https://github.com/rmsramos/multifx-editor)** is an unofficial Linux editor for the **M-VAVE Tank G** guitar multi-effects pedal. The official app has no Linux version, so I decoded its MIDI SysEx protocol and built a desktop app that edits all 36 presets directly on the pedal. Not affiliated with M-VAVE.
+
+[![Release](https://img.shields.io/github/v/release/rmsramos/multifx-editor?style=flat-square&color=f97316)](https://github.com/rmsramos/multifx-editor/releases/latest)
+[![License](https://img.shields.io/github/license/rmsramos/multifx-editor?style=flat-square&color=f97316)](https://github.com/rmsramos/multifx-editor/blob/main/LICENSE)
+![Linux](https://img.shields.io/badge/Linux-AppImage-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Electron](https://img.shields.io/badge/Electron-TypeScript%20%2B%20React-47848F?style=flat-square&logo=electron&logoColor=white)
+
+Noise gate · amp · modulation · delay · reverb · IR cab · preset LED color · tuner and bypass · JSON import/export · EN / PT
+
+<a href="https://github.com/rmsramos/multifx-editor"><img src="https://raw.githubusercontent.com/rmsramos/multifx-editor/main/docs/images/screenshot-en.png" width="720" alt="MultiFX Editor screenshot"></a>
+
+### Teclume ⌨️
 
 **[Teclume](https://github.com/rmsramos/teclume)** is an unofficial Linux configurator for the **Fortrek Cruiser** RGB keyboard. The vendor app only runs on Windows and macOS, so I reverse-engineered the USB protocol and built a native one.
 
@@ -31,6 +48,9 @@ Lighting effects with live preview · key remaps · macros · per-key colors · 
 ![TailwindCss](https://img.shields.io/badge/TailwindCss-38bdf8?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Filament](https://img.shields.io/badge/Filament-eab308?style=for-the-badge&logo=laravel&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-3e6e93?style=for-the-badge&logo=mysql&logoColor=white)
 ![Wordpress](https://img.shields.io/badge/Wordpress-23282d?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F1553A?style=for-the-badge&logo=git&logoColor=white)
