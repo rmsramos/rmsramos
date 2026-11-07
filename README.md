@@ -1,7 +1,9 @@
 ## Hi, I'm Rômulo Ramos
-### PHP developer based in north of Brazil (Macapá - Amapá) 🇧🇷
+### Tech lead and full-stack developer in Macapá, Amapá, Brazil 🇧🇷
 
-I build Laravel and Filament plugins by day. When a piece of hardware I own only ships Windows software, I reverse-engineer its protocol and write a native Linux app for it.
+Ten-plus years building software for the public sector, for companies and for my own ideas. Today I lead development teams and ship web systems with Laravel, Filament and the TALL stack, running on Docker, with AI-assisted workflows and MCP tooling as part of the daily routine. I also create and maintain open-source Filament plugins, Activitylog among them.
+
+Off the clock I am a musician and a Linux user, which is how the projects below started: when a device I own only ships Windows software, I reverse-engineer its protocol and build a native Linux app for it.
 
 ## Linux apps for hardware
 
