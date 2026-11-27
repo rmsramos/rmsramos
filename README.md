@@ -11,20 +11,20 @@ Off the clock I am a musician and a Linux user, which is how the projects below 
 
 **[MultiFX Editor](https://github.com/rmsramos/multifx-editor)** is an unofficial Linux editor for the **M-VAVE Tank G** guitar multi-effects pedal. The official app has no Linux version, so I decoded its MIDI SysEx protocol and built a desktop app that edits all 36 presets directly on the pedal. Not affiliated with M-VAVE.
 
-[![Release](https://img.shields.io/github/v/release/rmsramos/multifx-editor?style=flat-square&color=f97316)](https://github.com/rmsramos/multifx-editor/releases/latest)
+[![Release](https://img.shields.io/badge/release-v0.3.0-f97316?style=flat-square)](https://github.com/rmsramos/multifx-editor/releases/latest)
 [![License](https://img.shields.io/github/license/rmsramos/multifx-editor?style=flat-square&color=f97316)](https://github.com/rmsramos/multifx-editor/blob/main/LICENSE)
 ![Linux](https://img.shields.io/badge/Linux-AppImage-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Electron](https://img.shields.io/badge/Electron-TypeScript%20%2B%20React-47848F?style=flat-square&logo=electron&logoColor=white)
 
 Noise gate · amp · modulation · delay · reverb · IR cab · preset LED color · tuner and bypass · JSON import/export · EN / PT
 
-<a href="https://github.com/rmsramos/multifx-editor"><img src="https://raw.githubusercontent.com/rmsramos/multifx-editor/main/docs/images/screenshot-en.png" width="720" alt="MultiFX Editor screenshot"></a>
+<a href="https://github.com/rmsramos/multifx-editor"><img src="https://raw.githubusercontent.com/rmsramos/multifx-editor/main/docs/images/screenshot-panel-en.png" width="720" alt="MultiFX Editor screenshot"></a>
 
 ### Teclume ⌨️
 
 **[Teclume](https://github.com/rmsramos/teclume)** is an unofficial Linux configurator for the **Fortrek Cruiser** RGB keyboard. The vendor app only runs on Windows and macOS, so I reverse-engineered the USB protocol and built a native one.
 
-[![Release](https://img.shields.io/github/v/release/rmsramos/teclume?style=flat-square&color=8b5cf6)](https://github.com/rmsramos/teclume/releases/latest)
+[![Release](https://img.shields.io/badge/release-v0.4.0-8b5cf6?style=flat-square)](https://github.com/rmsramos/teclume/releases/latest)
 [![License](https://img.shields.io/github/license/rmsramos/teclume?style=flat-square&color=8b5cf6)](https://github.com/rmsramos/teclume/blob/main/LICENSE)
 ![Linux](https://img.shields.io/badge/Linux-.deb%20%7C%20.rpm%20%7C%20AppImage-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Tauri](https://img.shields.io/badge/Tauri-Rust-24C8DB?style=flat-square&logo=tauri&logoColor=white)
